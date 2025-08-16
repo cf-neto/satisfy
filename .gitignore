@@ -1,0 +1,13 @@
+# Build
+bin/
+obj/
+
+# Configurações locais
+*.vs/
+*.vscode/
+
+# Logs e temporários
+*.log
+*.tmp
+# Secrets / credenciais
+appsettings.Development.json
